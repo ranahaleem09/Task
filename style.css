@@ -1,0 +1,42 @@
+.background_image {
+    background-image: url("Rectangle\ 1\ copy\ 5@1X.png");
+    height: 525px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.top_image {
+    background-image: url("Layer\ 16@1X.png");
+    height: 470px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.center_text {
+    padding-top: 10px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40pt;
+    color: rgba(9, 48, 101, 255);
+    height:10%;
+}
+
+.center_text2 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    max-height: 50%;
+}
+
+.flex-container{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+    padding-top: 70px;
+    align-items: baseline;
+}
